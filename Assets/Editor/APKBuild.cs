@@ -6,7 +6,7 @@ namespace Tools
     public class APKBuild : Editor
     {
         [MenuItem("Tool/APKBuild")]
-        public void Build()
+        public static void Build()
         {
             BuildTarget buildTarget = BuildTarget.Android;
 
