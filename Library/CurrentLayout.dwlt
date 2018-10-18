@@ -650,8 +650,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
@@ -663,7 +663,7 @@ MonoBehaviour:
       y: 17
       width: 740
       height: 950
-    m_Scale: {x: 0.49479166, y: 0.49479166}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 370, y: 475}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -671,10 +671,10 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -747.7895
-      y: -960
-      width: 1495.579
-      height: 1920
+      x: -370
+      y: -475
+      width: 740
+      height: 950
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
@@ -714,7 +714,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: dcf2ffff48f3ffff76f5ffff9efbffff00000000
+    m_ExpandedIDs: 98f5ffff04f6ffff32f8ffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -810,18 +810,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Editor
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Editor
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\Unity\JenkinsDemo
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1c290000
-    m_LastClickedID: 10524
+    m_SelectedIDs: 52290000
+    m_LastClickedID: 10578
     m_ExpandedIDs: 000000001c29000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
