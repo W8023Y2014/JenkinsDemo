@@ -2,7 +2,7 @@
 
 echo Generating APK Files ...
 
-"D:\Program Files\Unity\Editor\Unity.exe" -quit -executeMethod Tools.APKBuild.Build -projectPath "C:\Program Files (x86)\Jenkins\workspace\JenkinsDemo" -logFile build.log
+%1 -quit -executeMethod Tools.APKBuild.Build -projectPath %2 -logFile build.log
  
 echo The APK File Is Generated!!!
 -quit
